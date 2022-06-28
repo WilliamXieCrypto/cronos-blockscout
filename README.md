@@ -4,7 +4,7 @@
 
 # Block Explorer
 
-This repository contains the code base of the Cronos Block Explorer.
+This repository contains the code base of the Cronos Block Explorer
 
 ## Explorer Link
 
